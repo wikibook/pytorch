@@ -1,4 +1,4 @@
-# 「파이토치 딥러닝 프로그래밍 최단기 코스」サポートサイト
+# 「파이토치 딥러닝 프로그래밍 최단기 코스」
 
 <div align="left">
 <img src="images/hyoshi.png" width="200">
@@ -9,9 +9,9 @@
 ## 실습 Notebook 링크
 이 책의 모든 실습 코드는, Google Colab 에서 동작을 전제로 하며, Github(본 리포지토리)에 공개되어 있습니다.
 
-[실습 Notebook 목록](notebooks.md)
+[실습 노트북 목록](notebooks.md)
 
-[실습 Notebook 실행 방법](refs/how-to-run.md)
+[실습 노트북 실행 방법](refs/how-to-run.md)
 
 
 
@@ -126,7 +126,7 @@ AI 프레임워크로 유명한 「파이토치」를 활용해 딥러닝 프로
 ## 오류 정정・FAQ
 
 <!---
-* [Notebook 정보](notebook-ref.md)
+* [노트북 정보](notebook-ref.md)
 -->  
 
 * [오류 정정](refs/errors.md)
