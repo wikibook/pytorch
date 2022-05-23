@@ -109,16 +109,15 @@ AI 프레임워크로 유명한 「파이토치」를 활용해 딥러닝 프로
 
 ## 링크 모음
 
-|소스  |제목과 링크  |설명|
-|---|---|---|
-|Amazon|[Amazon 리뷰](https://www.amazon.co.jp/product-reviews/4296110322)||
-|Honto|[Honto](https://honto.jp/netstore/pd-book_31207319.html)||
-|読書メーター|[読書メーター](https://bookmeter.com/books/18544605)||
-|BookLive|[BookLive](https://booklive.jp/product/index/title_id/1014297/vol_no/001)||
-|からあげ様ブログ|[PyTorch入門書の決定版！「最短コースでわかる PyTorch ＆深層学習プログラミング」](https://karaage.hatenadiary.jp/entry/2021/09/24/073000)|AI関連で有名なブロガーである「からあげ」様による書評です。|
-|新米エンジニアの読んだ技術書を一言まとめるブログ|[Pytorch&深層学習プログラミングはやはり初心者の見方だった](http://blog.livedoor.jp/sicut_study/archives/10927800.html)|本書について激賞していただいています|
-|twitter|[@makaishi2](https://twitter.com/makaishi2)|著者は原則twitterではつぶやきませんが、書籍に関連したつぶやきをretweetで紹介しています。|
-|IBM Blog|[AI関連書籍三冊目を出版したIBM赤石雅典に聞く「AIと仕事と執筆」](https://www.ibm.com/blogs/solutions/jp-ja/data_science_and_ai_akaishi-san/)|IBM勤務時代、会社のブログにインタビュー記事が紹介されています。|
+| 소스                                                         | 제목과 링크                                                                                                                                 | 설명                                                              |
+|------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------|
+| Amazon                                                     | [Amazon 리뷰](https://www.amazon.co.jp/product-reviews/4296110322)                                                                       ||
+| Honto                                                      | [Honto](https://honto.jp/netstore/pd-book_31207319.html)                                                                               ||
+| 독서 미터(読書メーター)                                              | [독서 미터](https://bookmeter.com/books/18544605)                                                                                          ||
+| BookLive                                                   | [BookLive](https://booklive.jp/product/index/title_id/1014297/vol_no/001)                                                              ||
+| 가라아게님의 블로그(からあげ様ブログ)                                       | [파이토치 입문서의 결정판!「파이토치 딥러닝 프로그래밍 최단기 코스」](https://karaage.hatenadiary.jp/entry/2021/09/24/073000)                                        | AI관련 유명 블로거인 「가라아게」님의 서평입니다.                                    |
+| twitter                                                    | [@makaishi2](https://twitter.com/makaishi2)                                                                                            | 저자는 평소 twitter로 소통하진 않습니다만, 이 서적에 관한 내용을 retweet을 통해 소개하고 있습니다. |
+| IBM Blog                                                   | [세번째 AI관련 서적을 출판한 "아카이시 마사노리"씨에게 듣는 「AI와 일, 그리고 집필」](https://www.ibm.com/blogs/solutions/jp-ja/data_science_and_ai_akaishi-san/) | IBM에서 근무했을 당시, 회사 블로그에 인터뷰 기사가 소개되어 있습니다.                       |
 
 ***
 
