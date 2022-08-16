@@ -1,14 +1,14 @@
-## 実習Notebookの動かし方
+## 실습 Notebook을 사용하는 방법
 
-**前提**  
-Gmailアドレスを事前に取得し、別タブでGmailにログインした状態にします。
+**전제**  
+Gmail 계정이 사전에 등록되어 있고, 별도의 탭에서 Gmail에 로그인한 상태를 전제로 합니다.
 
 
-1. 以下のリンクをクリックしてNotebook一覧を表示します。  
-(コントロールキーを押しながらリンクをクリックすると別タブで開くことができます。)   
-[Notebook一覧](../notebooks.md)
+1. 아래의 링크를 클릭해서 Notebook 목록을 표시합니다.  
+   (ctrl 키를 누른 상태로 클릭하면 별도의 탭으로 표시됩니다.)   
+[Notebook 목록](../notebooks.md)
 <!---
-[Notebook一覧](../notebooks.md){:target="_blank" rel="noopener"} 
+[Notebook 목록](../notebooks.md){:target="_blank" rel="noopener"} 
 <p><a href="../notebooks.md" target="_blank">Notebook一覧</a></p>
 -->  
 
@@ -17,35 +17,35 @@ Gmailアドレスを事前に取得し、別タブでGmailにログインした�
 <img src="../images/howto-01.png" width="500">
 </div>
 
-2. 実行したいNotebookのリンクをクリックします。  
-（以下では一番上の序章「はじめに」のリンクをクリックした場合の画面としています）
+2. 실행하고 싶은 Notebook의 링크를 클릭합니다.  
+   (아래는 첫번째의「미리보기」링크를 클릭한 경우의 화면입니다.)
 
 <div align="left">
 <img src="../images/howto-02.png" width="500">
 </div>
 
 
-3. 青枠で囲んだ「ドライブにコピー」のリンクをクリックします。
+3. 파란색 사각형으로 표시된「Drive로 복사」를 클릭합니다.
 
 <div align="left">
 <img src="../images/howto-03.png" width="500">
 </div>
 
-4. 上の画面のようになれば、notebook 実行の準備は完了です。
+4. 위의 화면처럼 보인다면, notebook 실행 준비가 완료된 것입니다.
 
 <div align="left">
 <img src="../images/howto-04.png" width="500">
 </div>
 
-　画面上部の「# 必要ライブラリ・ コマンドの導入」の下辺りをマウスでクリックしてください。上の図左の青丸で 囲んだような矢印アイコンが表示されます。  
-　Notebook では「セル」と呼ばれる箱の単位でプログラムが実行されます。 矢印アイコンは、現在選択されている「セル」を意味します。  
-　この状態で、「Shift + Enter」(Shift を押しながら Enter を押す)を入力すると、選択されたセルが 実行されます。プログラムの実行に多少時間がかかりますが、最終的に下図のようになるはずです。
+　화면 상단의「# 필요 라이브러리 설치」의 아랫부분을 마우스로 클릭하면, 위의 그림과 같이 좌측 상단의 파란색 원으로 표시된 화살표 모양의 아이콘이 표시됩니다.  
+　Notebook에는「셀」이라는 상자 단위로 프로그램을 실행할 수 있습니다. 화살표 아이콘은 현재 선택된「셀」을 의미합니다.  
+　이 상태로「Shift + Enter」(Shift를 누른 상태로 Enter를 누름)을 입력하면, 선택중인 셀이 실행됩니다. 프로그램의 실행에 다소 시간이 걸리지만, 최종적으로 아래 그림과 같은 상태로 됩니다.
 
 <div align="left">
 <img src="../images/howto-05.png" width="500">
 </div>
 
 
-　以下同様に、「Shift + Enter」を繰り返し実行して下さい。
+　이하,「Shift + Enter」로 셀을 실행해주기 바랍니다.
 
-[メインページに戻る](../README.md)
+[메인 페이지로 돌아가기](../README.md)

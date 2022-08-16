@@ -1,7 +1,7 @@
 # 「파이토치 딥러닝 프로그래밍 최단기 코스」
 
 <div align="left">
-<img src="images/hyoshi.png" width="200">
+<img src="images/cover.png" width="200">
 </div>
 
 이 페이지는 "파이토치 딥러닝 프로그래밍 최단기 코스"의 리포지토리입니다.  
